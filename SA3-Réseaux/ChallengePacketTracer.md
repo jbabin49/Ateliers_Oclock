@@ -158,3 +158,12 @@ Configuration du relay DHCP sur les routeurs
 <img width="439" height="330" alt="DHCP_relay" src="https://github.com/user-attachments/assets/4e765da0-a37e-4a50-ac50-629a74ee0fcd" />
 
 - On donne l'ip du serveur DHCP à chaque port du routeur (sauf celui du serveur) : `ip helper-address 192.168.3.3`
+
+<img width="997" height="377" alt="config_DHCP_device" src="https://github.com/user-attachments/assets/1d9e2f67-49a9-4b9c-be80-13b17fddb2b9" />
+
+<img width="997" height="319" alt="ipconfig" src="https://github.com/user-attachments/assets/37a23a1d-5616-4f96-8044-fe363444866b" />
+
+- On configure les ip des appareils en DHCP
+- On vérifie avec un `ipconfig`
+
+Ça fonctionne 😁
