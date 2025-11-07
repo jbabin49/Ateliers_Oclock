@@ -80,3 +80,29 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 |VPN|59|172.16.0.0/24|254|172.16.0.1|
 
 </center>
+
+### Étape 2 - Câblage
+
+Voici la liste du matériel réseau à votre disposition :
+
+* Routeurs :
+ * 2x Cisco 2901 (un pour Paris, un pour Lille)
+ * 1x Cisco 1941 (pour le VPN)
+
+* Modules et cartes d'extension pour routeurs :
+ * 5x cartes HWIC-1GE-SFP, avec 5x modules SFP GLC-LH-SMD
+ * 2x cartes HWIC-2T
+
+* Switchs :
+ * 4x Cisco 3650-24PS (2 pour le LAN de Paris, un pour la DMZ, un pour le LAN de Lille)
+ * 1x Cisco 2960-24TT (Pour le VPN)
+
+* Modules et cartes d'extension pour switchs et points d'accès :
+ * 4x alimentations AC-POWER-SUPPLY (une par switch 3650-24PS)
+ * 5x modules SFP GLC-LH-SMD
+
+* Autres équipements :
+ * 4x Serveurs
+ * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
+ * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
+
