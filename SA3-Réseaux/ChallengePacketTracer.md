@@ -151,7 +151,7 @@ Voici la liste du matériel réseau à votre disposition :
 
 Configuration des pools DHCP sur le serveur
 
-<img width="1022" height="787" alt="DHCP_config" src="https://github.com/user-attachments/assets/c6ff3798-58f0-43ad-b208-646689131b4c" />
+<img width="1006" height="780" alt="DHCP_config" src="https://github.com/user-attachments/assets/32c0213e-5305-4567-8342-4d7ae17dd4ab" />
 
 Configuration du relay DHCP sur les routeurs
 
