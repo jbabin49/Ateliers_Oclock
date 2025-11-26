@@ -2,8 +2,8 @@ Structure de l’Active Directory
 
 Oclock (Forêt)
     Promotions
-       [] Patrice MALDI (Utilisateur)
-       [] GS_Promotions (Groupe)
+       [ ] Patrice MALDI (Utilisateur)
+       [ ] GS_Promotions (Groupe)
        [] Andromède
            [] Baptiste DELPHIN (Utilisateur)
            [] GS_PromoAndromede (groupe)
