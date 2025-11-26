@@ -26,7 +26,7 @@ Potentiels GPO et Partages à créer
 
 GPO spécifique par promotion :
 
-  * [ ] Forcer un fond d’écran : Crée une GPO pour définir un fond d’écran spécifique pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
+  * [x] Forcer un fond d’écran : Crée une GPO pour définir un fond d’écran spécifique pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
 
 
 Autre paramètre :
