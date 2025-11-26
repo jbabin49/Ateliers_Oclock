@@ -2,26 +2,26 @@ Structure de l’Active Directory
 
 * Oclock (Forêt)
    * Promotions
-      * [ ] Patrice MALDI (Utilisateur)
-      * [ ] GS_Promotions (Groupe)
-      * [ ] Andromède
-          * [ ] Baptiste DELPHIN (Utilisateur)
-          * [ ] GS_PromoAndromede (groupe)
-      * [ ] Aldebaran
-          * [ ] Christophe SEIGNANT  (Utilisateur)
-          * [ ] GS_PromoAldebaran (groupe)
-      * [ ] Zinc
-          * [ ] Roman BELDENT (Utilisateur)
-          * [ ] GS_PromoZinc (groupe)
-      * [ ] Basilic
-          * [ ] Alice MARTIN (Utilisateur)
-          * [ ] GS_PromoBasilic (groupe)
+      * [x] Patrice MALDI (Utilisateur)
+      * [x] GS_Promotions (Groupe)
+      * [x] Andromède
+          * [x] Baptiste DELPHIN (Utilisateur)
+          * [x] GS_PromoAndromede (groupe)
+      * [x] Aldebaran
+          * [x] Christophe SEIGNANT  (Utilisateur)
+          * [x] GS_PromoAldebaran (groupe)
+      * [x] Zinc
+          * [x] Roman BELDENT (Utilisateur)
+          * [x] GS_PromoZinc (groupe)
+      * [x] Basilic
+          * [x] Alice MARTIN (Utilisateur)
+          * [x] GS_PromoBasilic (groupe)
 
 
 Potentiels GPO et Partages à créer
 * GPO pour tous les étudiants :
-  * [ ] Activer le Verrou Numérique : Crée une GPO pour activer le Verrou Numérique au démarrage.
-  * [ ] Configurer une politique de mot de passe sécurisé : Obliger les étudiants à utiliser des mots de passe forts et à les changer régulièrement, par exemple tout les 30 jours. (PS: Allez vous renseigner sur les bonnes pratiques de la CNIL si vous avez 2 minutes)
+  * [x] Activer le Verrou Numérique : Crée une GPO pour activer le Verrou Numérique au démarrage.
+  * [x] Configurer une politique de mot de passe sécurisé : Obliger les étudiants à utiliser des mots de passe forts et à les changer régulièrement, par exemple tout les 30 jours. (PS: Allez vous renseigner sur les bonnes pratiques de la CNIL si vous avez 2 minutes)
 
 
 GPO spécifique par promotion :
@@ -31,19 +31,19 @@ GPO spécifique par promotion :
 
 Autre paramètre :
 
-  * [ ] Désactiver la connexion des étudiants Zinc et Basilic à partir de 17h jusqu’à 8h00 pour tout les jours de la semaine : Mettre en place un paramètre pour restreindre les connexions des utilisateurs de ces promotions pendant les heures spécifiées.
+  * [x] Désactiver la connexion des étudiants Zinc et Basilic à partir de 17h jusqu’à 8h00 pour tout les jours de la semaine : Mettre en place un paramètre pour restreindre les connexions des utilisateurs de ces promotions pendant les heures spécifiées.
 
 
 Partages de dossiers :
 
 * Création de dossiers partagés pour chaque promotion :
-  * [ ] Crée un dossier partagé pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
-  * [ ] Configure les permissions de partage et NTFS pour que seuls les membres du groupe approprié aient accès.
+  * [x] Crée un dossier partagé pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
+  * [x] Configure les permissions de partage et NTFS pour que seuls les membres du groupe approprié aient accès.
        * Je suis spécial ! 👀
-  * [ ] Attribuer un mappage pour chaque dossier
+  * [x] Attribuer un mappage pour chaque dossier
   * Restreindre les fichiers
-      * [ ] Interdit aux fichiers .divx uniquement (Nous ne voulons pas de « photo de famille » 🥸)
-   * [ ] Quotas de 30Go par promotions
+      * [x] Interdit aux fichiers .divx uniquement (Nous ne voulons pas de « photo de famille » 🥸)
+   * [x] Quotas de 30Go par promotions
    * Exemple de structure de dossiers partagés :
        * Serveur//Shares//PromoAldebaran
        * Serveur//Shares//PromoAndromede
