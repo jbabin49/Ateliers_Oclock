@@ -1,21 +1,21 @@
 Structure de l’Active Directory
 
-    Oclock (Forêt)
-        Promotions
-           [] Patrice MALDI (Utilisateur)
-           [] GS_Promotions (Groupe)
-           [] Andromède
-               [] Baptiste DELPHIN (Utilisateur)
-               [] GS_PromoAndromede (groupe)
-           [] Aldebaran
-               [] Christophe SEIGNANT  (Utilisateur)
-               [] GS_PromoAldebaran (groupe)
-           [] Zinc
-               [] Roman BELDENT (Utilisateur)
-               [] GS_PromoZinc (groupe)
-           [] Basilic
-               [] Alice MARTIN (Utilisateur)
-               [] GS_PromoBasilic (groupe)
+Oclock (Forêt)
+    Promotions
+       [] Patrice MALDI (Utilisateur)
+       [] GS_Promotions (Groupe)
+       [] Andromède
+           [] Baptiste DELPHIN (Utilisateur)
+           [] GS_PromoAndromede (groupe)
+       [] Aldebaran
+           [] Christophe SEIGNANT  (Utilisateur)
+           [] GS_PromoAldebaran (groupe)
+       [] Zinc
+           [] Roman BELDENT (Utilisateur)
+           [] GS_PromoZinc (groupe)
+       [] Basilic
+           [] Alice MARTIN (Utilisateur)
+           [] GS_PromoBasilic (groupe)
 
 Potentiels GPO et Partages à créer
 GPO pour tous les étudiants :
@@ -33,19 +33,19 @@ Autre paramètre :
 
 Partages de dossiers :
 
-    Création de dossiers partagés pour chaque promotion :
-       [] Crée un dossier partagé pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
-       [] Configure les permissions de partage et NTFS pour que seuls les membres du groupe approprié aient accès.
-            Je suis spécial ! 👀
-       [] Attribuer un mappage pour chaque dossier
-       Restreindre les fichiers
-           [] Interdit aux fichiers .divx uniquement (Nous ne voulons pas de « photo de famille » 🥸)
-       [] Quotas de 30Go par promotions
-       Exemple de structure de dossiers partagés :
-            Serveur//Shares//PromoAldebaran
-            Serveur//Shares//PromoAndromede
-            Serveur//Shares//PromoZinc
-            Serveur//Shares//PromoBasilic
+Création de dossiers partagés pour chaque promotion :
+   [] Crée un dossier partagé pour chaque promotion (Aldebaran, Andromède, Zinc, Basilic).
+   [] Configure les permissions de partage et NTFS pour que seuls les membres du groupe approprié aient accès.
+        Je suis spécial ! 👀
+   [] Attribuer un mappage pour chaque dossier
+   Restreindre les fichiers
+       [] Interdit aux fichiers .divx uniquement (Nous ne voulons pas de « photo de famille » 🥸)
+   [] Quotas de 30Go par promotions
+   Exemple de structure de dossiers partagés :
+        Serveur//Shares//PromoAldebaran
+        Serveur//Shares//PromoAndromede
+        Serveur//Shares//PromoZinc
+        Serveur//Shares//PromoBasilic
 
 Bonus ! : Installation de Firefox en GPO !
 
