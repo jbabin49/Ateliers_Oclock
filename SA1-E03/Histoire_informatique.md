@@ -122,3 +122,39 @@ Il offre une suite de services permettant la création de logiciels applicatifs,
 
 <img height="400" alt="fonctionnement_OS" src="https://github.com/user-attachments/assets/7c63a628-9f24-466d-94f5-b641dc8c3d29" />
 
+### Les différents OS
+
+Les OS pour ordinateurs :
+* Microsoft windows
+* Apple MacOS
+* GNU/linux
+
+<img height="100" alt="OS ordinateurs" src="https://github.com/user-attachments/assets/9a418d96-0992-41d4-be04-9eec521c20ea" />
+
+Les OS pour smartphones :
+* Android
+* iOS (iPhone)
+* Windows Phone (disparu)
+* Blackberry OS (disparu)
+
+<img height="100" alt="OS smartphones" src="https://github.com/user-attachments/assets/8152fb0d-251f-48d4-8da5-d2c3d9bf2fe8" />
+
+### Composants d'un système d'exploitation
+
+#### Noyau
+
+Le noyau (kernel, en anglais) est le composant principal d'un système
+
+d'exploitation. Il offre les fonctionnalités suivantes :
+* exécution et ordonnancement des programmes
+* utilisation et gestion des ressources de l'ordinateur, comme la mémoire
+* gestion des périphériques
+* manipulation des systèmes de fichiers
+* gestion et communication via la réseau
+* etc.
+
+Liste non exhaustive !
+
+
+
+
