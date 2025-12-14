@@ -95,11 +95,11 @@ Ensuite on essaye de parcourir le dossier avec : `cd /home/partage_fichier`
 Pour faire ceci, on doit modifier un fichier sudoers et on va utliser la commmande : `sudo visudo /etc/sudoers.d/rpm`
 * `sudo` : permet d'éxécuter la commande en tant que super-utilisateur
 * `visudo` : accéder à l'éditeur pour éditer les fichiers sudoers
-* `/etc/sudoers.d/rpm` : chemin du fichier que l'on va modifier pour créer une règle pour la commande rpm(le fichier sera créé s'il n'existe pas)
+* `/etc/sudoers.d/rpm` : chemin du fichier que l'on va modifier pour créer une règle pour la commande rpm (le fichier sera créé s'il n'existe pas)
 
 <img width="666" height="96" alt="visudo" src="https://github.com/user-attachments/assets/9dabfeed-d768-4d21-bc00-052d04a02ae6" />
 
-Pour plus de sécurité, on va donner les droits d'éxécuter rpm snas mot de passe à alice et bob seulement.
+Pour plus de sécurité, on va donner les droits d'éxécuter rpm sans mot de passe à alice et bob seulement.
 
 Dans le fichier, on va écrire : 
 `
