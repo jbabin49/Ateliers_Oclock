@@ -1,7 +1,7 @@
 <h1 align=center>Sécurité informatique</h1>
 <h3 align=center>Introduction / Bonnes pratiques</h3>
 
-# Pourquuoi ?
+# Pourquoi ?
 
 ## _Il y a des métiers spécialisés dans la sécurité informatique : pourquoi devrions-nous nous en soucier ?_
 
