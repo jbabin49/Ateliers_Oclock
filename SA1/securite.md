@@ -3,7 +3,7 @@
 
 # Pourquoi ?
 
-## _Il y a des métiers spécialisés dans la sécurité informatique : pourquoi devrions-nous nous en soucier ?_
+### _Il y a des métiers spécialisés dans la sécurité informatique : pourquoi devrions-nous nous en soucier ?_
 
 * la sécurité est l'affaire de tous
 * toutes les entreprises n'ont pas les moyens d'embaucher un/des expert(s)
