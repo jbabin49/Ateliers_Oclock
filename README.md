@@ -1,3 +1,6 @@
+<h1 align=center>Sommaire</h1>
+<p align=center>Chaque lien mène vers le fichier contenant les détails de chaque notion.</p>
+
 # Bloc A
 
 <details>
@@ -17,11 +20,11 @@
 <details>
 <summary>Saison 2 - Centre de service</summary>
   
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Bios et UEFI, MBR et GPT](https://github.com/jbabin49/Ressources_Oclock/blob/a157f4dfc62d9e999fc3127c46a9be8565eec879/Bloc_A/SA2-Centres_de_services/SA02-BIOS_UEFI_MBR_GPT.md)
+* [Contrôle à distance et Procédures](https://github.com/jbabin49/Ressources_Oclock/blob/a157f4dfc62d9e999fc3127c46a9be8565eec879/Bloc_A/SA2-Centres_de_services/SA02-Controle_Distance_Procedures.md)
+* [Diagnostic et résolution d'incidents](https://github.com/jbabin49/Ressources_Oclock/blob/a157f4dfc62d9e999fc3127c46a9be8565eec879/Bloc_A/SA2-Centres_de_services/SA02-Diagnostic_Resolution_Incidents.md)
+* [Incidents hardware et Réglementation](https://github.com/jbabin49/Ressources_Oclock/blob/a157f4dfc62d9e999fc3127c46a9be8565eec879/Bloc_A/SA2-Centres_de_services/SA02-Incidents_Hardware_Reglementation.md)
+* [Outils bureautique](https://github.com/jbabin49/Ressources_Oclock/blob/a157f4dfc62d9e999fc3127c46a9be8565eec879/Bloc_A/SA2-Centres_de_services/SA02-Outils_Bureautique.md)
 </details>
 
 <details>
