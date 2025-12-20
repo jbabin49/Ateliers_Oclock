@@ -6,7 +6,7 @@
 <details>
 <summary>Saison 1 - Introduction</summary>
   
-* [Comment fonctionne un ordinateur](https://github.com/jbabin49/Ressources_Oclock/blob/a1b4422f6ed230ccb6fdfb43fccea863ee864d32/Bloc_A/SA1-Introduction/SA01-01-comment_fonctionne_un_ordi.md)
+* [Comment fonctionne un ordinateur](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-01-comment_fonctionne_un_ordi.md)
 * [Systèmes d'exploitation](https://github.com/jbabin49/Ressources_Oclock/blob/a1b4422f6ed230ccb6fdfb43fccea863ee864d32/Bloc_A/SA1-Introduction/SA01-02-systeme_exploitation.md)
 * [Histoire de l'informatique](https://github.com/jbabin49/Ressources_Oclock/blob/a1b4422f6ed230ccb6fdfb43fccea863ee864d32/Bloc_A/SA1-Introduction/SA01-03-histoire_informatique.md)
 * [Composants hardwares](https://github.com/jbabin49/Ressources_Oclock/blob/a1b4422f6ed230ccb6fdfb43fccea863ee864d32/Bloc_A/SA1-Introduction/SA01-04-composants_hardware.md)
