@@ -5,11 +5,11 @@
 
 <details>
 <summary>Saison 1 - Introduction</summary>
-  
+
+* [Histoire de l'informatique](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-03-histoire_informatique.md)  
 * [Comment fonctionne un ordinateur](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-01-comment_fonctionne_un_ordi.md)
-* [Systèmes d'exploitation](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-02-systeme_exploitation.md)
-* [Histoire de l'informatique](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-03-histoire_informatique.md)
 * [Composants hardwares](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-04-composants_hardware.md)
+* [Systèmes d'exploitation](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-02-systeme_exploitation.md)
 * [Sécurité](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-05-securite.md)
 * [Introduction au réseau](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-06-reseau_introduction.md)
 * [Bits, octets et numération](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA1-Introduction/SA01-07-bits_octets_numeration.md)
@@ -19,12 +19,15 @@
 
 <details>
 <summary>Saison 2 - Centre de service</summary>
-  
-* [Bios et UEFI, MBR et GPT](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-BIOS_UEFI_MBR_GPT.md)
+
+* [Outils bureautique](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Outils_Bureautique.md)
 * [Contrôle à distance et Procédures](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Controle_Distance_Procedures.md)
 * [Diagnostic et résolution d'incidents](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Diagnostic_Resolution_Incidents.md)
 * [Incidents hardware et Réglementation](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Incidents_Hardware_Reglementation.md)
-* [Outils bureautique](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Outils_Bureautique.md)
+* [Bios et UEFI, MBR et GPT](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-BIOS_UEFI_MBR_GPT.md)
+* [ITIL v4](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-ITIL_V4.md)
+* [Pratiques ITIL et GLPI](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Bloc_A/SA2-Centres_de_services/SA02-Pratiques_ITIL_et_GLPI.md)
+
 </details>
 
 <details>
